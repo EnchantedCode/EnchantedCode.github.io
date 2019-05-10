@@ -13,8 +13,8 @@
 
 - 姓名：江喆
 - 学历：本科
-- GitHub：http://www.github.com/EnchantedCode
-- 技术博客：http://EnchantedCode.github.io
+- GitHub：[http://www.github.com/EnchantedCode](http://www.github.com/EnchantedCode)
+- 技术博客：[http://EnchantedCode.github.io](http://EnchantedCode.github.io)
 - B站账号：我想做个路人甲
 
 
